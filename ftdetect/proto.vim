@@ -1,1 +1,1 @@
-au! BufRead,BufNewFile *.proto setfiletype protobuf
+au! BufRead,BufNewFile *.proto setfiletype proto
